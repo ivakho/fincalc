@@ -1,0 +1,8 @@
+.tabs {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+
+.tabs::-webkit-scrollbar {
+  display: none;
+}

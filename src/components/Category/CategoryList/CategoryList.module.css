@@ -1,0 +1,9 @@
+.name {
+  flex: 1;
+  min-width: 0;
+}
+
+.total {
+  white-space: "nowrap";
+  flex-shrink: 0;
+}
