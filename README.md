@@ -55,6 +55,11 @@ npm install
 npm run dev
 ```
 
+### 4. Setup Backend
+
+You can use my backend server with database, just follow the steps in the backend repo:
+https://github.com/ivakho/finance
+
 ---
 
 ## 📌 Notes
